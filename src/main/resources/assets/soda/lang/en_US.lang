@@ -1,0 +1,7 @@
+tile.soda:twelvepack_drpepper.name=Dr Pepper 12-Pack
+tile.soda:twelvepack_pepsi.name=Pepsi 12-Pack
+
+item.soda:can_drpepper.name=Dr Pepper Can
+item.soda:can_pepsi.name=Pepsi Can
+
+itemGroup.soda=Soda
